@@ -6,7 +6,7 @@
   },
   "license": "MIT",
   "scripts": {
-    "server": "node_modules/.bin/webpack-dev-server --hot --inline"
+    "server": "node_modules/.bin/webpack-dev-server"
   },
   "devDependencies": {
     "source-map-loader": "^0.1.6",

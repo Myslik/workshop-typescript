@@ -8,6 +8,7 @@
             "userDataDir": "${workspaceRoot}/.vscode/chrome",
             "webRoot": "${workspaceRoot}",
             "internalConsoleOptions": "openOnFirstSessionStart",
+            "sourceMaps": true,
             "preLaunchTask": "development"
         }
     ]
