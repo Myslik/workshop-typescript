@@ -10,5 +10,8 @@
   },
   "files": [
     "greeter.ts"
+  ],
+  "exclude": [
+    "node_modules"
   ]
 }
